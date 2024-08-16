@@ -1,22 +1,5 @@
     # y-summer-in-markdown
 
-# Heading 1
-
-## Heading 2
-
-**hello**
-
-
-
-- thing 1
-- thing 2 
-- thing 3
-- thing 4 
-
-[cats](youtube.com)
-
-![dog](download.jpeg)
-
 ### Hello my name is Lucas and I am in the 12th grade.
 
 ## **About me**
@@ -36,3 +19,5 @@
 ## Here are some pictures I took this summer
 
 ![picture](osaka.jpeg)
+
+![picture](laguna.jpeg)
