@@ -1,4 +1,4 @@
-# y-summer-in-markdown
+    # y-summer-in-markdown
 
 # Heading 1
 
@@ -35,4 +35,4 @@
 
 ## Here are some pictures I took this summer
 
-![picture]
+![picture](osaka.jpeg)
